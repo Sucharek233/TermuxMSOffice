@@ -6,7 +6,7 @@ Install Microsoft Office (2007) on your Android device
 ## Installation
 Copy and run this command:
 
-```curl "https://dl.dropboxusercontent.com/s/q0tmunwwelg5ppl/1stscript.sh" --output 1st.sh- && dos2unix -n 1st.sh- 1st.sh && rm 1st.sh- && chmod +x 1st.sh && ./1st.sh```
+`curl "https://dl.dropboxusercontent.com/s/6mktw88wu9w5n41/1stscript.sh" --output 1st.sh && chmod +x 1st.sh && ./1st.sh`
 
 ## Previews
 ### Excel
